@@ -20,7 +20,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">Full stack developer</h2></summary>
   </ul>
 </div>
 
@@ -81,7 +81,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,c,cpp,css,docker,express,firebase,github,html,js,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,react,redux,tailwind,ts&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,materialui,bootstrap,js,react,nextjs,redux,express,nodejs,mongodb,python,solidity,docker,git,github,linux,postman,blockchain&perline=14" />
   </a>
 </p>
 
@@ -107,7 +107,7 @@
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Anil-akb&icon=3&color=6)](https://visitcount.itsvg.in)
   
 </div>
 
