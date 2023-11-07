@@ -28,8 +28,6 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **React, Next, Nodejs, MongoDB, Expressjs, Solidity, Ethereum Blockchain**
 
-- ☁️ I've keen interest in Blockchain technology. So,I'm learning **Ethereum Blockchain**
-
 - 💬 Ask me about **React,Nextjs, nodejs, mongoDB, Expressjs**
 
 - 📫 Feel free to reach me out **anilbarik786@gmail.com**
